@@ -1,0 +1,12 @@
+H1 { text-align: center }
+
+ Ul{
+Display: flex;
+justify-content: center;
+}
+
+li {
+    list-style: none;
+margin: 0 5px;
+  }
+
